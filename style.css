@@ -11,7 +11,7 @@
 }
 
 body{
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-family:'Roboto', sans-serif;
   background-color: var(--background-color);
   color: aliceblue;
@@ -170,7 +170,7 @@ a:hover, a:focus{
 
 /* MAIN*/
 main{
-  max-width: 90%;
+  max-width: 95%;
   margin-inline: auto;
   line-height: 1.5;
   font-family: cursive;
